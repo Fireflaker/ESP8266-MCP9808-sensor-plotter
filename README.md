@@ -6,5 +6,6 @@ Lots of code found online! Sensitive info: MAC address, Wifi password, API chann
 Note:
 wifi passcode disabled for joining school network using MAC address. Re-enable if you want to use WPA2 personal.
 
+Data stream https://thingspeak.com/channels/1458402/private_show5
 
 ![IMG_20210729_005845](https://user-images.githubusercontent.com/22672963/127437670-1c4f9799-a845-419b-8586-e919f29c363f.jpg)
