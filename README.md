@@ -13,5 +13,6 @@ Fix done in V2:
 - Added detailed serial print info
 - Push server to go as fast as possible. Ditched energy saving. 
 
+Note: set the address of the sensor to suit your physical sensor module
 
 ![IMG_20210729_005845](https://user-images.githubusercontent.com/22672963/127437670-1c4f9799-a845-419b-8586-e919f29c363f.jpg)
