@@ -4,5 +4,5 @@
 #define WIFI_PASS   ""
 
 // ThingSpeak Settings
-#define TS_WRITE_KEY  "8SCX6ST3BJLU53O6"
-#define TS_CHANNEL_ID 1458402
+#define TS_WRITE_KEY  "AKJWOC6MV0TFTEMZ"
+#define TS_CHANNEL_ID 1461051
